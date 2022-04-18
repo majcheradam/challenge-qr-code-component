@@ -19,11 +19,12 @@ p {
 
 h1 {
   letter-spacing: -0.02em;
+  font-size: 25px;
   color: #1f3251;
 }
 
 p {
-  font-size: 15px;
+  font-size: 17px;
   color: #7b879d;
 }
 
